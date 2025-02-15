@@ -1,2 +1,2 @@
 # Belajar Kolaborasi
-Belajar GitHub di Dicoding
+Belajar GitHub di Dicoding mengenai kolaborasi
